@@ -1,3 +1,4 @@
 # TestCollab 
 Acesta este un proiect de test pentru a exersa colaborarea in Git. 
 Colaborator: Elev B 
+## Echipa noastra: Elev A si B 
